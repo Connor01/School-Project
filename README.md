@@ -3,6 +3,7 @@ This is the place for a school project for team constellations.
 
 (Grace)
 drawMoon();
+//This creates the moon by placing a pale yellow dot in the top left corner then adding darker yellow dots in it
 function drawMoon() {
   penUp();
   moveTo(81, 80);
